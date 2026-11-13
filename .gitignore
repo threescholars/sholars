@@ -1,0 +1,11 @@
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+out/
+target/
+__pycache__/
+*.pyc
+.venv/
